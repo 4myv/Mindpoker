@@ -3,7 +3,7 @@
 Tmax IT 희망학교 NEXT AI 과정의 과제로 만든 웹 카드 게임입니다.
 과제는 **Skill과 하네스를 적용해 에이전트를 만들고, 그 에이전트를 활용해 기초 게임을 만드는 것**이었습니다.
 
-🎮 [바로 플레이](https://4myv.github.io/mindpoker/마인드포커.html) · 📣 [홍보 페이지](https://4myv.github.io/mindpoker/)
+🎮 [바로 플레이](https://4myv.github.io/Mindpoker/마인드포커.html) · 📣 [홍보 페이지](https://4myv.github.io/Mindpoker/)
 
 ## 게임 소개
 
